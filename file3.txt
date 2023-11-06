@@ -1,1 +1,5 @@
 this is a file in firstBranch branch 
+adding new contect 
+Check diff.
+Detailed info.
+Second line
